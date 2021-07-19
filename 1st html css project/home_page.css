@@ -1,0 +1,210 @@
+body{
+    background-color: rgb(215, 213, 226);
+    font-family: Helvetica, sans-serif;
+    color: seashell;
+}
+
+header{
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+div{
+    border-radius: 10px;
+}
+
+ul{
+    list-style: none;
+}
+.main_heading{
+    background-color: rgb(40, 33, 66);
+    padding: 225px 40px;
+    padding-top: 10px;
+    color: #FFF;
+    
+}
+
+header h3{
+    font-size: large;
+    margin-top: 0px;
+    color:rgb(235, 153, 2);
+}
+
+header h1{
+    text-align: center;
+    padding-top: 100px;
+    text-decoration: none;
+    font-size: 500%;
+}
+
+.heading_para{
+    text-align: center;
+    font-size: 200%;
+}
+
+header nav{
+    text-align: right;
+}
+
+header nav li{
+    display: inline;
+}
+
+header nav li a{
+    padding: 10px 10px;
+    margin: 20px 10px;
+    background-color: rgb(235, 153, 2);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 125%;
+}
+
+header nav li a:hover{
+    background-color: white;
+    color:black;
+}
+
+.main_content{
+    margin: 50px 75px;
+    padding : 30px 30px;
+}
+
+
+header h2{
+    color: grey;
+    font-weight: normal;
+    font-size: 300%;
+    text-decoration-line:underline;
+    text-decoration-style:solid;
+    text-decoration-color:rgb(235, 153, 2); 
+    text-align: center;
+}
+
+.about{
+    display: flex;
+}
+
+.about_body{
+    margin-top: 120px;
+    padding: 30px 50px;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    font-size: 140%;
+    color: rgb(40, 33, 66);
+}
+
+ .service_heading{
+    color:rgb(235, 153, 2);
+    font-size: 200%;
+    margin: 20px 20px;
+    padding: 20px 20px;
+   
+}
+
+.service_para{
+    font-size: 150%;
+    margin: 20px 20px;
+    color: seashell;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #FFF;
+    background-color: rgba(0, 0, 0, .65);
+    padding: 15px 25px;
+}
+
+.service{
+    position: relative;
+}
+.services_body{
+    display:flex;
+    background-color: rgb(40, 33, 66);
+    padding-bottom: 20px;
+}
+
+.pricing_body{
+    display: flex;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    padding-left: 10px;
+    display: block;
+    border-radius: 10px;
+  }
+
+
+.pricing_para{
+    font-size: 200%;
+    color: rgb(40, 33, 66);
+    text-decoration-line:underline;
+    text-decoration-style:solid;
+    text-decoration-color:rgb(235, 153, 2);
+}
+
+
+
+.plan{
+    margin:auto;
+    background-color:rgb(40, 33, 66) ;
+}
+
+.time{
+    color: rgb(235, 153, 2); 
+    text-align: center;
+    padding-right: 50px;
+    font-size: 150%;
+    background-color: gray;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.details{
+    color: white;
+    padding: 10px 10px;
+    margin-top:10%;
+    padding-right: 50px;
+    text-align: center;
+    font-size: 112%;
+}
+
+.price{
+    font-size: 150%;
+    color: rgb(235, 153, 2); 
+}
+
+.cut_line{
+    text-decoration-line: line-through;
+    color: silver;
+}
+
+footer{
+    background-color:rgb(40, 33, 66);
+    color:seashell;
+    border-radius: 10px;
+}
+
+
+footer .footer{
+    margin: 30px 30px;
+    padding: 50px 50px;
+    color: (40, 33, 66);
+    text-align: center;
+}
+
+footer header{
+    font-size: 400%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.onclick_tab{
+    color: rgb(235, 153, 2);
+}
+
